@@ -46,7 +46,7 @@ portfolio/
 
 ## 📧 Contact
 If you'd like to connect, collaborate, or just say hi:  
-📩 **Email:** skawadkar07@.com  
+📩 **Email:** skawadkar07@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/shivamkawadkar](https://linkedin.com/in/shivam-kawadkar)  
 🐙 **GitHub:** [github.com/shivamkawadkar](https://github.com/Shivam-Kawadkar)
 
